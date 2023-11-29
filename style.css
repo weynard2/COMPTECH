@@ -1,0 +1,128 @@
+ #title {
+   background-color: #000000;
+ }
+
+body{
+    font-family: 'Montserrat';
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+  line-height: 1;
+  color: white;
+}
+.contaner-fluid{
+  padding: 5% 7%;
+}
+
+/* navbar */
+
+.navbar-brand{
+  font-family: 'ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 15PX;
+}
+
+.nav-link{
+  font-size: 1.5rem;
+}
+
+/* buttons */
+
+.btn{
+  margin:5% 3% 5% 0;
+}
+.shadow{
+  width: 100%;
+  height: auto;
+}
+.links{
+  display: flex;
+}
+
+/* Fetures */
+
+.fa-check-circle, .fa-bullseye, .fa-heart{
+  margin: 20px;
+  color: #e75480;
+  padding: 5% 15%;
+}
+.fa-check-circle:hover, .fa-bullseye:hover, .fa-heart:hover{
+  margin: 20px;
+  color: #000000;
+}
+
+/* testimonials */
+#testimonials {
+ text-align: center;
+ background-color: #000000;
+ color:  white;
+
+}
+
+.carousel-item {
+   padding: 7% 15%;
+}
+
+
+.testimonial-image {
+ width: 10%;
+border-radius: 50%;
+margin: 20px;
+}
+
+/*press*/
+
+#press{
+  background-color: #000000;
+  text-align: center;
+  padding-bottom: 3%
+}
+.press-logo{
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+padding: 3% 2%;
+
+}
+.Val{
+  font-family: Bold;
+}
+/* cta */
+
+#cta{
+  text-align: center;
+  padding: 9% 9%;
+  background: #000000;
+}
+.ctah3{
+  color: rgb(255, 255, 255);
+}
+.ctah4{
+  color: rgb(153, 153, 153);
+}
+
+/* footter */
+#fotter{
+  text-align: center;
+  padding: 5% 10%;
+}
+.containerr{
+  text-align: center;
+    margin-bottom: 2%;
+}
